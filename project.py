@@ -1,8 +1,3 @@
-from os import lchown
-import random
-import turtle
-from array import *
-import csv
 
 
 #121
