@@ -48,6 +48,7 @@ def viewAllNames():
 #END program
    
 
+#Main program that will control the main menu selection and be revisted after each selection is made
 def main():
    userMenu = int(input("1) ADD name to the list\n2) CHANGE name in the list\n3) DELETE name in the list\n4) VIEW ALL names in the list\n5) QUIT program\nSelect Number: "))
    if userMenu == 1:
